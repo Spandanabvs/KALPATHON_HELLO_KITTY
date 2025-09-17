@@ -70,7 +70,7 @@ CalmNest is a modern, responsive mental wellness platform specifically designed 
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/v0-calm-nest-website-generation.git
+   git clone https://github.com/Spandanabvs/KALPATHON_HELLO_KITTY?tab=readme-ov-file
    cd v0-calm-nest-website-generation
    \`\`\`
 
@@ -95,68 +95,13 @@ CalmNest is a modern, responsive mental wellness platform specifically designed 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
-## 📁 Project Structure
-
-\`\`\`
-calmnest/
-├── app/ # Next.js 14 App Router
-│ ├── about/ # About page
-│ ├── api/ # API routes
-│ ├── blog/ # Blog section
-│ ├── contact/ # Contact page
-│ ├── services/ # Service pages
-│ │ ├── chatbot/ # AI chatbot interface
-│ │ ├── exercises/ # Exercise recommendations
-│ │ ├── music-therapy/ # Music therapy section
-│ │ └── stress-check/ # Stress assessment tool
-│ ├── signup/ # User registration
-│ ├── globals.css # Global styles and design tokens
-│ ├── layout.tsx # Root layout component
-│ └── page.tsx # Homepage
-├── components/ # Reusable UI components
-│ ├── ui/ # Base UI components (buttons, cards, etc.)
-│ ├── ExerciseModal.tsx # Exercise instruction modals
-│ ├── Footer.tsx # Site footer
-│ ├── GlassCard.tsx # Glassmorphism card component
-│ ├── MusicPlayer.tsx # Audio player component
-│ ├── Navbar.tsx # Navigation header
-│ ├── ServiceCard.tsx # Service feature cards
-│ └── StressOrb.tsx # Animated stress visualization
-├── lib/ # Utility functions
-│ └── utils.ts # Helper functions and utilities
-└── public/ # Static assets
-└── images/ # Image assets and illustrations
-\`\`\`
-
-## 🎨 Design System
-
-### Color Palette
-
-- **Primary**: Deep Navy (`#0f172a`) - Main background
-- **Accent**: Light Teal (`#6ee7b7`) - Interactive elements
-- **Text**: White (`#ffffff`) - Primary text
-- **Secondary**: Light Gray (`#e2e8f0`) - Secondary text
-- **Glass**: Semi-transparent overlays with backdrop blur
-
-### Typography
-
-- **Headings**: Inter font family with various weights
-- **Body**: System font stack for optimal readability
-- **Responsive**: Fluid typography scaling across devices
-
-### Components
-
-- **GlassCard**: Glassmorphism effect with backdrop blur
-- **StressOrb**: Animated visualization for stress levels
-- **Wave Backgrounds**: Subtle animated ocean-themed backgrounds
-
 ## 🌐 Deployment
 
 ### Vercel (Recommended)
 
 The project is automatically deployed to Vercel and synced with v0.app:
 
-**Live URL**: [https://vercel.com/spandanabvs1408-8200s-projects/v0-calm-nest-website-generation](https://vercel.com/spandanabvs1408-8200s-projects/v0-calm-nest-website-generation)
+**Live URL**: [https://kalpathon-hello-kitty.vercel.app/](https://kalpathon-hello-kitty.vercel.app/)
 
 ### Manual Deployment
 
@@ -184,32 +129,6 @@ We welcome contributions to improve CalmNest! Here's how you can help:
 4. **Commit your changes**: `git commit -m 'Add amazing feature'`
 5. **Push to the branch**: `git push origin feature/amazing-feature`
 6. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow the existing code style and conventions
-- Ensure all components are accessible (WCAG 2.1 AA)
-- Test on multiple devices and screen sizes
-- Maintain the calming, student-focused design aesthetic
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you need help or have questions:
-
-- 📧 Contact: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/v0-calm-nest-website-generation/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/v0-calm-nest-website-generation/discussions)
-
-## 🙏 Acknowledgments
-
-- Built with [v0.app](https://v0.app) - AI-powered development platform
-- Deployed on [Vercel](https://vercel.com) - The platform for frontend developers
-- UI components powered by [Radix UI](https://www.radix-ui.com/)
-- Styling with [Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
